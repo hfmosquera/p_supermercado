@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=NumEmpleado
+comment0.target=Empleado\ findEmpleado(int)
+comment1.params=NumEmpleado
+comment1.target=int\ getPosition(int)
+comment2.params=empleado
+comment2.target=void\ add(Empleado)
+comment3.params=empleado
+comment3.target=void\ del(Empleado)
+comment4.params=
+comment4.target=void\ showData()
+numComments=5
